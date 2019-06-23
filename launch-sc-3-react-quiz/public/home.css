@@ -1,0 +1,20 @@
+.selected {
+  background-color: #89CFF0;
+}
+
+.answer {
+  width: 400px;
+  border: 2px solid black;
+}
+
+.question {
+  text-align: center;
+}
+
+.correct {
+  color: green;
+}
+
+.incorrect {
+  color: red;
+}
